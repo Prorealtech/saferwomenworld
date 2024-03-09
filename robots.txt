@@ -1,0 +1,11 @@
+
+
+User-agent: *
+Sitemap: https://saferwomenworld.com/sitemap.xml
+
+
+##############
+#   custom   #
+##############
+
+
